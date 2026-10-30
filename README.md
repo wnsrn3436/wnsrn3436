@@ -1,6 +1,6 @@
 ## Career
 
-| | Company | Period | Role | Projects |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Company | Period | Role | Projects |
 |:-:|---|---|---|---|
 | <img src="assets/studio-kingdom.png" height="36" alt="Studio Kingdom"> | Devsisters (Studio Kingdom) | 2018.12&nbsp;‑&nbsp;2026.06 | Client Software Engineer | Cookie Run: Kingdom, Cookie Run: OvenSmash |
 | <img src="assets/plugvr.png" height="36" alt="PlugVR"> | PlugVR (now DIVEXR) | 2017.06&nbsp;‑&nbsp;2018.08 | Development Team Lead | VR and AR content delivered to public institutions and companies |
